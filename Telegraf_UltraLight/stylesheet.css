@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Telegraf UltraLight';
+	src: url('Telegraf-UltraLight.eot');
+	src: url('Telegraf-UltraLight.eot?#iefix') format('embedded-opentype'),
+		url('Telegraf-UltraLight.woff') format('woff'),
+		url('Telegraf-UltraLight.ttf') format('truetype'),
+		url('Telegraf-UltraLight.svg') format('svg');
+}
